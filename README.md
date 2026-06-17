@@ -29,8 +29,8 @@ Project structure:
 - data.json
 - notes.txt
 
-How to run:
-python main.py
+How to run:<br>
+python main.py<br>
 Enter a username when prompted. If user does not exist, a new user will be created automatically.
 
 python commands.py
@@ -52,7 +52,7 @@ while building this project I practiced:
 - command parsing
 - API requests
 - Data structures such as dictionaries and lists
-- organising code intomultiple modules
+- organising code into multiple modules
 
 Future inprovements:
 - Better command parsing
