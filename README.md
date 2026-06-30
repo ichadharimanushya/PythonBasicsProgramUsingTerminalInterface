@@ -72,5 +72,3 @@ Projects Completed:
 - [x] Terminal-Based Personal Assistant
 - [ ] Expense Tracker
 - [ ] Habit Tracker
-- [ ] Library Management System
-- [ ] Web Scraper
